@@ -1,0 +1,1 @@
+mongodb://localhost:27020 social_net2
